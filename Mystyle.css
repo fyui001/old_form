@@ -1,0 +1,164 @@
+a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,caption,center,cite,code,dd,del,details,dfn,div,dl,dt,em,embed,fieldset,figcaption,figure,footer,form,h1,h2,h3,h4,h5,h6,header,hgroup,html,i,iframe,img,ins,kbd,label,legend,li,mark,menu,nav,object,ol,output,p,pre,q,ruby,s,samp,section,small,span,strike,strong,sub,summary,sup,table,tbody,td,tfoot,th,thead,time,tr,tt,u,ul,var,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:'';content:none}table{border-collapse:collapse;border-spacing:0}
+html, body{
+  height: 100%;
+  font-family: "Noto Sans JP", "游ゴシック Medium", "游ゴシック体", "Yu Gothic Medium", YuGothic, "ヒラギノ角ゴ ProN", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+header {
+  width:100%;
+  background-color:#26d0c9;
+  padding-top:20px;
+  padding-bottom: 10px;
+  border-bottom:1px solid #000;
+  color:#fff;
+  margin: auto;
+}
+main #res{
+  text-align: center;
+  bottom:0;
+  right:0;
+  background-color:#000;
+  color:#fff;
+  border:none;
+  padding:0 5px;
+  margin:0;
+  font-size: 20px;
+}
+input{
+  font-size: 20px;
+}
+#h .title{s
+  padding:5px;
+  padding-left:200px;
+  font-size:50px;
+  left:100px;
+}
+#h .closebut{
+  font-size:45px;
+  float:right;
+  position:absolute;
+  padding:5px;
+  top:20px;
+  right:200px;
+  text-decoration: none;
+  color:#fff;
+}
+#form{
+  width:80%;
+  padding:40px;
+  background-color:#f5f5f5;
+  margin:40px auto;
+}
+
+#form-title{
+  font-size:50px;
+  border-bottom:2px solid #000 ;
+}
+#form-title .t{
+  text-align:center;
+  padding-bottom:5px;
+}
+#form-title .t0{
+  padding-top:20px;
+  padding-bottom: 27px;
+  padding-left:400px;
+  font-size:15px;
+}
+#form-item{
+  padding-top:30px;
+  padding-left:200px;
+}
+
+#form-meil{
+  text-align: left;
+}
+#form-mail .mtitle{
+  font-size:30px;
+  padding-top:none;
+  padding-bottom:3px;
+}
+#form-mail .main{
+  font-size:25px;
+  padding-top:13px;
+  padding-bottom:10px;
+
+}
+#form-mail .main p{
+  padding-bottom:6px;
+}
+#form-mail .sub{
+  font-size:25px;
+  border-bottom: 1px solid #000;
+  padding-bottom:20px;
+}
+#form-mail .sub p{
+  padding-bottom:6px;
+}
+#form-name {
+  font-size:30px;
+  border-bottom:1px solid #000;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+#form-name p{
+  padding-bottom: 6px;
+}
+
+#form-age {
+  font-size:30px;
+  border-bottom:1px solid #000;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+#form-PhoneNum{
+  font-size:30px;
+  border-bottom:1px solid #000;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+
+#form-types{
+  font-size:30px;
+  border-bottom:1px solid #000;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+#form-content{
+  box-sizing: border-box;
+  border-bottom:1px solid #000;
+  padding-top:20px;
+  padding-bottom:20px;
+}
+#form-content p{
+  font-size: 30px;
+  padding:5px;
+
+}
+#form-content textarea{
+  width:600px;
+  height:200px;
+  font-size:20px;
+  padding:none;
+}
+form #form #form-item #but1{
+  font-size: 23px;
+  border-style:none;
+  background-color:#000;
+  color:#f5f5f5;
+  margin-top:7px;
+
+
+}
+#Required{
+  color:red;
+  font-size:20px;
+}
+
+#form-item h1{
+  color:#000;
+  font-size:15px;
+  padding-left:3px;
+  padding-top:1px;
+  padding-bottom:7px;
+
+}
